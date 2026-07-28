@@ -1,4 +1,4 @@
-# Awesome-CMS
+# 🚀 Awesome-CMS
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Awesome CMS Banner">
@@ -25,23 +25,23 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Leading Self-Hosted Headless CMS
+### 🥇 Leading Self-Hosted Headless CMS
 - **[Strapi](https://github.com/strapi/strapi)** [![Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) — The leading open-source headless CMS. 100% JavaScript/TypeScript, auto-generated REST & GraphQL APIs, customizable admin panel, plugins, i18n, and media library. MIT license. Extremely popular (~70k+ stars).
 - **[Directus](https://github.com/directus/directus)** [![Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers) — Instantly turns any SQL database into a headless CMS + admin app with REST, GraphQL, and realtime APIs. Excellent for existing databases or data-heavy projects. Source-available (check current license terms).
 - **[Payload CMS](https://github.com/payloadcms/payload)** [![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers) — TypeScript-first, code-defined schemas. Can run as a full Next.js backend (Local API) or classic headless CMS. Auth, access control, and admin UI generated from config. MIT license. Rapidly growing favorite for modern stacks.
 
-### Git-Based / Static-Friendly
+### 🐙 Git-Based / Static-Friendly
 - **[Decap CMS](https://github.com/decaporg/decap-cms)** [![Stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers) (formerly Netlify CMS) — Git-backed CMS that stores content as Markdown/YAML/JSON in your repository. Perfect for Jamstack and static sites. Completely free and open source.
 - **[TinaCMS](https://github.com/tinacms/tinacms)** [![Stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers) — Open-source Git-backed CMS with visual editing for React / Next.js / Astro sites. Content lives in the repo; real-time preview available.
 - **[Sveltia CMS](https://github.com/sveltia/sveltia-cms)** [![Stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=social&color=white)](https://github.com/sveltia/sveltia-cms/stargazers) — Modern, fast rewrite of Decap/Netlify CMS. Git-based, framework-agnostic, excellent i18n, and improved UX.
 
-### Developer Frameworks & Other Strong Options
+### 🛠️ Developer Frameworks & Other Strong Options
 - **[Ghost](https://github.com/TryGhost/Ghost)** [![Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) — Beautiful open-source publishing platform with a powerful Content API. Excellent as a headless CMS for blogs, newsletters, and memberships. MIT license.
 - **[Wagtail](https://github.com/wagtail/wagtail)** [![Stars](https://img.shields.io/github/stars/wagtail/wagtail?style=social&color=white)](https://github.com/wagtail/wagtail/stargazers) — Django-based CMS with strong editorial features and headless API support. Popular in larger organizations and government sites.
 - **[KeystoneJS](https://github.com/keystonejs/keystone)** [![Stars](https://img.shields.io/github/stars/keystonejs/keystone?style=social&color=white)](https://github.com/keystonejs/keystone/stargazers) — Highly flexible Node.js CMS/framework. Define schemas in code, get GraphQL API + Admin UI. Great for custom applications that need CMS capabilities.
 - **[ApostropheCMS](https://github.com/apostrophecms/apostrophe)** [![Stars](https://img.shields.io/github/stars/apostrophecms/apostrophe?style=social&color=white)](https://github.com/apostrophecms/apostrophe/stargazers) — In-context editing focused open-source CMS built on Node.js. Good for teams that want visual editing while staying open source.
 
-### Notable Mentions
+### 📌 Notable Mentions
 - **[Statamic](https://github.com/statamic/cms)** [![Stars](https://img.shields.io/github/stars/statamic/cms?style=social&color=white)](https://github.com/statamic/cms/stargazers) — Flat-file / Laravel-based CMS (source-available core with commercial licenses for some features). Excellent developer experience.
 - **[Plone](https://github.com/plone/plone)** [![Stars](https://img.shields.io/github/stars/plone/plone?style=social&color=white)](https://github.com/plone/plone/stargazers) — Mature Python enterprise CMS with headless capabilities and very strong security/accessibility track record.
 
