@@ -1,0 +1,19 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4facfe" />
+      <stop offset="100%" stop-color="#00f2fe" />
+    </linearGradient>
+    <style>
+      .title { font: bold 40px sans-serif; fill: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+      .subtitle { font: 20px sans-serif; fill: white; }
+      @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-10px); } 100% { transform: translateY(0px); } }
+      .floating { animation: float 3s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad)" rx="15" ry="15" />
+  <g class="floating">
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" class="title">Awesome CMS</text>
+    <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" class="subtitle">A curated list of headless CMS</text>
+  </g>
+</svg>
