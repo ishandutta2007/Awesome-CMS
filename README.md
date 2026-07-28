@@ -6,6 +6,8 @@
 
 **Headless CMS** platforms provide content modeling, editorial interfaces, and APIs (REST/GraphQL) while leaving the frontend completely free. Popular commercial tools include Contentful, Sanity, Storyblok, Strapi Cloud, Prismic, Hygraph, ButterCMS, DatoCMS, Agility CMS, and Magnolia.
 
+Explore the ultimate directory of the best headless CMS, including top open-source CMS, free tier API-first content platforms, and enterprise digital experience solutions for modern Jamstack, Next.js, and React web development.
+
 Below is a **curated list** of notable platforms and their open-source equivalents. The focus is on **open-source** solutions that can be self-hosted for full data ownership and zero licensing fees.
 
 ## 🏢 SaaS / Hosted Platforms
