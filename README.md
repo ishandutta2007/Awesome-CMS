@@ -6,16 +6,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Contentful](https://www.contentful.com/)** — Enterprise-grade headless CMS with strong content modeling, governance, localization, and a large marketplace. Usage + seat based pricing.
-- **[Sanity](https://www.sanity.io/)** — Real-time, developer-first content platform with highly flexible schemas (GROQ), collaborative Studio, and excellent customization. Free tier + per-seat plans.
-- **[Storyblok](https://www.storyblok.com/)** — Visual editor focused headless CMS popular with marketers. Component-based content and live preview. Seat-based pricing.
-- **[Strapi Cloud](https://strapi.io/cloud)** — Managed hosting for the open-source Strapi CMS. Convenient when you want Strapi without running infrastructure.
-- **[Prismic](https://prismic.io/)** — Slice-based page building with a polished visual editor and strong Next.js / React integration.
-- **[Hygraph](https://hygraph.com/)** (formerly GraphCMS) — GraphQL-native content platform with content federation capabilities. Strong for complex, multi-source content architectures.
-- **[ButterCMS](https://buttercms.com/)** — Simple headless CMS with blog and page management APIs, aimed at developers who want quick integration.
-- **[DatoCMS](https://www.datocms.com/)** — Clean, developer-friendly headless CMS with excellent GraphQL support and a modern editorial experience.
-- **[Agility CMS](https://agilitycms.com/)** — Headless CMS focused on structured content and digital experience management with REST + GraphQL APIs.
-- **[Magnolia](https://www.magnolia-cms.com/)** — Enterprise digital experience platform with both traditional and headless capabilities, strong in larger organizations.
+| SaaS Product | Description | Pricing & Free Tier | Company Size |
+| :--- | :--- | :--- | :--- |
+| **[Contentful](https://www.contentful.com/)** | Enterprise-grade headless CMS with strong content modeling, governance, localization, and a large marketplace. | Usage + seat based. Free tier: 5 users, 1 space, 2M API requests/mo. | ~$3 Billion Valuation |
+| **[Sanity](https://www.sanity.io/)** | Real-time, developer-first content platform with highly flexible schemas (GROQ), collaborative Studio, and excellent customization. | Per-seat plans. Free tier: 3 users, 10GB bandwidth, 100k API requests/mo. | ~$500 Million Valuation |
+| **[Storyblok](https://www.storyblok.com/)** | Visual editor focused headless CMS popular with marketers. Component-based content and live preview. | Seat-based. Free tier: 1 user, 250GB bandwidth, limited components. | ~$300 Million Valuation |
+| **[Strapi Cloud](https://strapi.io/cloud)** | Managed hosting for the open-source Strapi CMS. Convenient when you want Strapi without running infrastructure. | Subscription. No free tier (Self-host is free). | ~$200 Million Valuation |
+| **[Prismic](https://prismic.io/)** | Slice-based page building with a polished visual editor and strong Next.js / React integration. | Usage based. Free tier: 1 user, unlimited API calls. | ~$150 Million Valuation |
+| **[Hygraph](https://hygraph.com/)** | GraphQL-native content platform with content federation capabilities. Strong for complex, multi-source content architectures. | Usage based. Free tier: 3 users, 1 project, 1M API operations/mo. | ~$100 Million Valuation |
+| **[Magnolia](https://www.magnolia-cms.com/)** | Enterprise digital experience platform with both traditional and headless capabilities, strong in larger organizations. | Enterprise pricing. No free tier. | ~$50 Million Revenue |
+| **[ButterCMS](https://buttercms.com/)** | Simple headless CMS with blog and page management APIs, aimed at developers who want quick integration. | Starts at $99/mo. No free tier. | ~$40 Million Valuation |
+| **[DatoCMS](https://www.datocms.com/)** | Clean, developer-friendly headless CMS with excellent GraphQL support and a modern editorial experience. | Usage based. Free tier: 3 users, 1 project, 100k API requests/mo. | ~$30 Million Valuation |
+| **[Agility CMS](https://agilitycms.com/)** | Headless CMS focused on structured content and digital experience management with REST + GraphQL APIs. | Usage based. Free tier: 1 user, 2,500 items. | ~$20 Million Valuation |
 
 ## 🔓 Open-Source Software
 
