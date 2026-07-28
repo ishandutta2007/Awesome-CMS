@@ -51,6 +51,17 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ---
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-CMS&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CMS&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CMS&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CMS&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 **How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects that support content modeling and modern APIs (REST/GraphQL).
